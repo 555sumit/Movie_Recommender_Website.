@@ -1,3 +1,4 @@
+#The website is not completed yet, "Still in progress".
 # Movie Recommender
 
 Welcome to Movie Recommender, your personalized guide to discovering new films! This website helps you find movies you'll love based on your preferences.
